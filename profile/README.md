@@ -1,6 +1,6 @@
 # JHU-IITD SMaRT Webinar Series
 
-**JHU-IITD SMaRT** stands for **Johns Hopkins – IIT Delhi Joint Scientific Machine Learning and Research Talks**.
+**JHU-IITD SMaRT** stands for **Johns Hopkins – IIT Delhi Joint Scientific Machine Learning Research Talks**.
 
 This is a collaborative webinar series jointly hosted by:
 
