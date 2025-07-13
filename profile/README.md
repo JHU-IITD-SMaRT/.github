@@ -4,7 +4,7 @@
 
 This is a collaborative webinar series jointly hosted by:
 
-- **Dr. Somdatta Goswami** (Johns Hopkins University)  
+- **(Dr. Somdatta Goswami)[https://engineering.jhu.edu/faculty/somdatta-goswami/]** (Johns Hopkins University)  
 - **Dr. Souvik Chakraborty** (Indian Institute of Technology Delhi)  
 - **Dr. Rajdip Nayek** (Indian Institute of Technology Delhi)
 
