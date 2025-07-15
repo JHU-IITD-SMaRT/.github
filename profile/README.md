@@ -27,7 +27,7 @@ For questions, speaker nominations, or collaborations, please reach out to:
 
 - **Dr. Somdatta Goswami** – `somdatta@jhu.edu` 
 - **Dr. Rajdip Nayek** – `rajdipn@iitd.ac.in`  
-- **Dr. Souvik Chakraborty** – `souvikc@iitd.ac.in` 
+- **Dr. Souvik Chakraborty** – `souvik@iitd.ac.in` 
 
 ---
 
