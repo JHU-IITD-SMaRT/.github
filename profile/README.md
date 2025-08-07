@@ -31,6 +31,14 @@ For questions, speaker nominations, or collaborations, please reach out to:
 
 ---
 
+## 📚 Past Talks
 
+### 🔹 Talk 1: *Scalable Digital Twin-Enabled Virtual Sensing: Toward Foundation Model Futures for Energy Systems*  
+**Speaker**: Dr. Syed Bahauddin Alam  
+*Assistant Professor, University of Illinois Urbana-Champaign*  
+📅 *Date: August 6, 2025*  
+📺 [Watch on YouTube](https://youtu.be/72jLwYNlBkE)
+
+---
 
 
