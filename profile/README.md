@@ -39,6 +39,12 @@ For questions, speaker nominations, or collaborations, please reach out to:
 📅 *Date: August 6, 2025*  
 📺 [Watch on YouTube](https://youtu.be/72jLwYNlBkE)
 
+### 🔹 Talk 2: *Differentiable Physics: A physics-constrained and data-driven paradigm for scientific discovery*  
+**Speaker**: Dr. Romit Maulik  
+*Assistant Professor, Pennsylvania State University*  
+📅 *Date: August 13, 2025*  
+📺 [Watch on YouTube](https://youtu.be/A9AGOhPoXYw)
+
 ---
 
 
