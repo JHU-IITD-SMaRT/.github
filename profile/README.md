@@ -45,6 +45,12 @@ For questions, speaker nominations, or collaborations, please reach out to:
 📅 *Date: August 13, 2025*  
 📺 [Watch on YouTube](https://youtu.be/A9AGOhPoXYw)
 
+### 🔹 Talk 3: *TI-DeepONet: Learnable Time Integration for Stable Long-Term Extrapolation*  
+**Speaker**: Dibyajyoti Nayak   
+*PhD Scholar, Johns Hopkins University*  
+📅 *Date: August 20, 2025*  
+📺 [Watch on YouTube](https://youtu.be/bLLbKAq4RBA)
+
 ---
 
 
