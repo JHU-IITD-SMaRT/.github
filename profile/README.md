@@ -51,6 +51,12 @@ For questions, speaker nominations, or collaborations, please reach out to:
 📅 *Date: August 20, 2025*  
 📺 [Watch on YouTube](https://youtu.be/bLLbKAq4RBA)
 
+### 🔹 Talk 4: *Machine learning-driven prediction and design for material systems: Towards generalised, interpretable and physics-constrained tools*  
+**Speaker**: Dr. Sathiskumar Anusuya Ponnusami   
+*Reader (Associate Professor), City St George’s, University of London, UK*  
+📅 *Date: August 27, 2025*  
+📺 [Watch on YouTube](https://youtu.be/7XCKEdE1s5A)
+
 ---
 
 
