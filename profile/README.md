@@ -57,6 +57,19 @@ For questions, speaker nominations, or collaborations, please reach out to:
 📅 *Date: August 27, 2025*  
 📺 [Watch on YouTube](https://youtu.be/7XCKEdE1s5A)
 
+### 🔹 Talk 5: *Neuroscience inspired deep learning algorithms for computational mechanics*  
+**Speaker**: Shailesh Garg   
+*PhD Scholar, Indian Institute of Technology Delhi*  
+📅 *Date: Sept 03, 2025*  
+📺 [Watch on YouTube](https://youtu.be/lBGJaxOYZnM)
+
+### 🔹 Talk 6: *Multi-fidelity Machine Learning for Uncertainty Quantification*  
+**Speaker**: Dr Subhayan De   
+*Assistant Professor, Department of Mechanical Engineering at Northern Arizona University*  
+📅 *Date: Sept 10, 2025*  
+📺 [Watch on YouTube](https://youtu.be/BWJfg0dQb6E)
+
+
 ---
 
 
