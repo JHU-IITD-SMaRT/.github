@@ -69,6 +69,12 @@ For questions, speaker nominations, or collaborations, please reach out to:
 📅 *Date: Sept 10, 2025*  
 📺 [Watch on YouTube](https://youtu.be/BWJfg0dQb6E)
 
+### 🔹 Talk 7: *Diffusion Models for Scientific Machine Learning*  
+**Speaker**: Dr Agnimitra Dasgupta   
+*John von Neumann Fellow, Sandia National Laboratories*  
+📅 *Date: Sept 17, 2025*  
+📺 [Watch on YouTube](https://youtu.be/OsSxtpwmFcI)
+
 
 ---
 
