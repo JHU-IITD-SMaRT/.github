@@ -75,6 +75,12 @@ For questions, speaker nominations, or collaborations, please reach out to:
 📅 *Date: Sept 17, 2025*  
 📺 [Watch on YouTube](https://youtu.be/OsSxtpwmFcI)
 
+### 🔹 Talk 8: *Diffusion Models for Scientific Machine Learning*  
+**Speaker**: Dr Ilias Bilionis   
+*Professor, Mechanical Engineering, Purdue University*  
+📅 *Date: Sept 24, 2025*  
+📺 [Watch on YouTube](https://youtu.be/DKZmnm16JAk)
+
 
 ---
 
