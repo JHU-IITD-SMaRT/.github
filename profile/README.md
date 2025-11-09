@@ -1,4 +1,4 @@
-# JHU-IITD SMaRT Webinar Series
+<img width="997" height="59" alt="image" src="https://github.com/user-attachments/assets/f5df6a2f-cbf3-4edd-ad4a-6a4a2dd94379" /><img width="1086" height="59" alt="image" src="https://github.com/user-attachments/assets/260a760f-535b-4756-8790-7791ad073ee8" /># JHU-IITD SMaRT Webinar Series
 
 **JHU-IITD SMaRT** stands for **Johns Hopkins – IIT Delhi Joint Scientific Machine Learning Research Talks**.
 
@@ -59,7 +59,7 @@ For questions, speaker nominations, or collaborations, please reach out to:
 
 ### 🔹 Talk 5: *Neuroscience inspired deep learning algorithms for computational mechanics*  
 **Speaker**: Shailesh Garg   
-*PhD Scholar, Indian Institute of Technology Delhi*  
+*PhD Scholar, Department of Applied Mechaics, Indian Institute of Technology (IIT) Delhi*  
 📅 *Date: Sept 03, 2025*  
 📺 [Watch on YouTube](https://youtu.be/lBGJaxOYZnM)
 
@@ -75,11 +75,42 @@ For questions, speaker nominations, or collaborations, please reach out to:
 📅 *Date: Sept 17, 2025*  
 📺 [Watch on YouTube](https://youtu.be/OsSxtpwmFcI)
 
-### 🔹 Talk 8: *Diffusion Models for Scientific Machine Learning*  
+### 🔹 Talk 8: *Information Field Theory: A Bayesian Framework for Physics-Informed Inference*  
 **Speaker**: Dr Ilias Bilionis   
 *Professor, Mechanical Engineering, Purdue University*  
 📅 *Date: Sept 24, 2025*  
 📺 [Watch on YouTube](https://youtu.be/DKZmnm16JAk)
+
+### 🔹 Talk 9: *From local to nonlocal models in continuum mechanics: the role of SciML*  
+**Speaker**: Dr Nikolaos Bouklas   
+*Associate Professor, Sibley School of Mechanical and Aerospace Engineering, Cornell University*
+*Director for Research in CAD/CAE and ML, Pasteur Labs*
+📅 *Date: Oct 08, 2025*  
+📺 [Watch on YouTube](https://youtu.be/ijCxE3Dgguo)
+
+### 🔹 Talk 10: *Biologically Inspired Algorithm and Hardware Co-Design for Efficient Machine Intelligence*  
+**Speaker**: Dr Priya Panda   
+*Associate Professor, Electrical & Computer Engineering Department, University of Southern California*
+📅 *Date: Oct 15, 2025*  
+📺 [Watch on YouTube](https://youtu.be/aTOG7-Q3o_U)
+
+### 🔹 Talk 11: *Working with large datasets in computational mechanics and mechanobiology: benchmarks, metrics, and validation studies*  
+**Speaker**: Dr Emma Lejeune   
+*Assistant Professor, Mechanical Engineering Department, Boston University*
+📅 *Date: Oct 22, 2025*  
+📺 [Watch on YouTube](https://youtu.be/kEPLoXktoTA)
+
+### 🔹 Talk 12: *Beyond Traditional Modeling: Advancing Large Eddy Simulation of Turbulent Combustion with Deep Learning*  
+**Speaker**: Dr Shubhangi Bansude   
+*Assistant Professor, Mechanical Engineering Department, Indian Institute of Technology (IIT) Gandhinagar*
+📅 *Date: Oct 29, 2025*  
+📺 [Watch on YouTube](https://youtu.be/AgxmJJ546hs)
+
+### 🔹 Talk 13: *MAP-TD: Model-Agnostic-Predictive Temporal Difference for active control*  
+**Speaker**: Tapas Tripura   
+*PhD Scholar, Department of Applied Mechanics, Indian Institute of Technology (IIT) Delhi*
+📅 *Date: Nov 05, 2025*  
+📺 [Watch on YouTube](https://youtu.be/VPiAdcoRolE)
 
 
 ---
