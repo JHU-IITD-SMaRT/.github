@@ -83,32 +83,32 @@ For questions, speaker nominations, or collaborations, please reach out to:
 
 ### 🔹 Talk 9: *From local to nonlocal models in continuum mechanics: the role of SciML*  
 **Speaker**: Dr Nikolaos Bouklas   
-*Associate Professor, Sibley School of Mechanical and Aerospace Engineering, Cornell University*
-*Director for Research in CAD/CAE and ML, Pasteur Labs*
+*Associate Professor, Sibley School of Mechanical and Aerospace Engineering, Cornell University*  
+*Director for Research in CAD/CAE and ML, Pasteur Labs*  
 📅 *Date: Oct 08, 2025*  
 📺 [Watch on YouTube](https://youtu.be/ijCxE3Dgguo)
 
 ### 🔹 Talk 10: *Biologically Inspired Algorithm and Hardware Co-Design for Efficient Machine Intelligence*  
 **Speaker**: Dr Priya Panda   
-*Associate Professor, Electrical & Computer Engineering Department, University of Southern California*
+*Associate Professor, Electrical & Computer Engineering Department, University of Southern California*  
 📅 *Date: Oct 15, 2025*  
 📺 [Watch on YouTube](https://youtu.be/aTOG7-Q3o_U)
 
 ### 🔹 Talk 11: *Working with large datasets in computational mechanics and mechanobiology: benchmarks, metrics, and validation studies*  
 **Speaker**: Dr Emma Lejeune   
-*Assistant Professor, Mechanical Engineering Department, Boston University*
+*Assistant Professor, Mechanical Engineering Department, Boston University*  
 📅 *Date: Oct 22, 2025*  
 📺 [Watch on YouTube](https://youtu.be/kEPLoXktoTA)
 
 ### 🔹 Talk 12: *Beyond Traditional Modeling: Advancing Large Eddy Simulation of Turbulent Combustion with Deep Learning*  
 **Speaker**: Dr Shubhangi Bansude   
-*Assistant Professor, Mechanical Engineering Department, Indian Institute of Technology (IIT) Gandhinagar*
+*Assistant Professor, Mechanical Engineering Department, Indian Institute of Technology (IIT) Gandhinagar*  
 📅 *Date: Oct 29, 2025*  
 📺 [Watch on YouTube](https://youtu.be/AgxmJJ546hs)
 
 ### 🔹 Talk 13: *MAP-TD: Model-Agnostic-Predictive Temporal Difference for active control*  
 **Speaker**: Tapas Tripura   
-*PhD Scholar, Department of Applied Mechanics, Indian Institute of Technology (IIT) Delhi*
+*PhD Scholar, Department of Applied Mechanics, Indian Institute of Technology (IIT) Delhi*  
 📅 *Date: Nov 05, 2025*  
 📺 [Watch on YouTube](https://youtu.be/VPiAdcoRolE)
 
