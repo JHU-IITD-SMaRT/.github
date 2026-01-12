@@ -1,4 +1,4 @@
-<img width="415" height="67" alt="image" src="https://github.com/user-attachments/assets/ab5b3d2f-44f7-4a21-a8e2-8e42d18fd604" /># JHU-IITD SMaRT Webinar Series
+# JHU-IITD SMaRT Webinar Series
 
 **JHU-IITD SMaRT** stands for **Johns Hopkins – IIT Delhi Joint Scientific Machine Learning Research Talks**.
 
