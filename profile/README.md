@@ -1,4 +1,4 @@
-# JHU-IITD SMaRT Webinar Series
+<img width="415" height="67" alt="image" src="https://github.com/user-attachments/assets/ab5b3d2f-44f7-4a21-a8e2-8e42d18fd604" /># JHU-IITD SMaRT Webinar Series
 
 **JHU-IITD SMaRT** stands for **Johns Hopkins – IIT Delhi Joint Scientific Machine Learning Research Talks**.
 
@@ -112,6 +112,35 @@ For questions, speaker nominations, or collaborations, please reach out to:
 📅 *Date: Nov 05, 2025*  
 📺 [Watch on YouTube](https://youtu.be/VPiAdcoRolE)
 
+### 🔹 Talk 14: *Data-Driven Mechanics for Soft Materials*  
+**Speaker**: Dr Kshitiz Upadhyay   
+*Assistant Professor, Department of Aerospace Engineering and Mechanics, University of Minnesota*  
+📅 *Date: Nov 12, 2025*  
+📺 [Watch on YouTube](https://youtu.be/16GDRkZkreo)
+
+### 🔹 Talk 15: *Neural Constitutive Models: Unsupervised Training, Hyper-Generalization, and Lightning-Fast Deployment*  
+**Speaker**: Dr Sid Kumar   
+*Associate Professor, Department of Material Science and Engineering and and Faculty of Mechanical Engineering, TU Delft*  
+📅 *Date: Nov 19, 2025*  
+📺 [Watch on YouTube](https://youtu.be/C6L8ZHz6AyE)
+
+### 🔹 Talk 16: *NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers*  
+**Speaker**: Mohammad Sadegh Eshaghi   
+*PhD Scholar, Leibniz University Hannover*  
+📅 *Date: Dec 03, 2025*  
+📺 [Watch on YouTube](https://youtu.be/FiUO_Mxsopk)
+
+### 🔹 Talk 17: *Learning Hidden Physics and System Parameters with Deep Operator Networks*  
+**Speaker**:Dibakar Roy Sarkar 
+*PhD Scholar, Department of Civil and Systems Engineering, Johns Hopkins University*  
+📅 *Date: Dec 10, 2025*  
+📺 [Watch on YouTube](https://youtu.be/a3_s5MdKfr8)
+
+### 🔹 Talk 18: *Dealing with uncertainty in Structural Health Monitoring applications via Physics-Enhanced Machine Learning*  
+**Speaker**: Dr Alice Cicirello   
+*PUniversity Assistant Professor in Applied Mechanics, Cambridge University*  
+📅 *Date: Dec 17, 2025*  
+📺 [Watch on YouTube](https://youtu.be/04jqqZjMzvU)
 
 ---
 
