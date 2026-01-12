@@ -131,14 +131,14 @@ For questions, speaker nominations, or collaborations, please reach out to:
 📺 [Watch on YouTube](https://youtu.be/FiUO_Mxsopk)
 
 ### 🔹 Talk 17: *Learning Hidden Physics and System Parameters with Deep Operator Networks*  
-**Speaker**:Dibakar Roy Sarkar 
+**Speaker**:Dibakar Roy Sarkar   
 *PhD Scholar, Department of Civil and Systems Engineering, Johns Hopkins University*  
 📅 *Date: Dec 10, 2025*  
 📺 [Watch on YouTube](https://youtu.be/a3_s5MdKfr8)
 
 ### 🔹 Talk 18: *Dealing with uncertainty in Structural Health Monitoring applications via Physics-Enhanced Machine Learning*  
 **Speaker**: Dr Alice Cicirello   
-*PUniversity Assistant Professor in Applied Mechanics, Cambridge University*  
+*University Assistant Professor in Applied Mechanics, Cambridge University*  
 📅 *Date: Dec 17, 2025*  
 📺 [Watch on YouTube](https://youtu.be/04jqqZjMzvU)
 
