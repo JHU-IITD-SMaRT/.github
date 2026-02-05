@@ -14,8 +14,8 @@ The goal of this series is to promote academic dialogue, showcase cutting-edge r
 
 ## 🎥 YouTube Channel
 
-All webinar recordings and speaker highlights are available on our official YouTube channel:  
-📺 [JHU-IITD SMaRT on YouTube](https://www.youtube.com/@JHU-IITD-SMART)
+All webinar recordings and speaker highlights from FALL 2025 are available on the following playlist: 
+📺 [JHU-IITD SMaRT on YouTube FALL 2025](https://www.youtube.com/watch?v=72jLwYNlBkE&list=PLQb15lhsTIyLKRdSxJH0AVSQdm0pGQ3eU)
 
 Make sure to **subscribe** and **turn on notifications** to stay updated on future events!
 
