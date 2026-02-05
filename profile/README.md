@@ -33,23 +33,18 @@ For questions, speaker nominations, or collaborations, please reach out to:
 
 ## 📚 Past Talks
 
-### 🔹 Talk 1: *Scalable Digital Twin-Enabled Virtual Sensing: Toward Foundation Model Futures for Energy Systems*  
-**Speaker**: Dr. Syed Bahauddin Alam  
-*Assistant Professor, University of Illinois Urbana-Champaign*  
-📅 *Date: August 6, 2025*  
-📺 [Watch on YouTube](https://youtu.be/72jLwYNlBkE)
+### 🔹 Talk 2: *Pretrain Finite Element Method: A Pretraining and Warm-start Framework for PDEs via Physics-Informed Neural Operators*  
+**Speaker**: Yizheng Wang  
+*PhD Student, Tsinghua University, China*  
+📅 *Date: January 28, 2026*  
+📺 [Watch on YouTube](https://youtu.be/lueQkS1zhdA)
 
-### 🔹 Talk 2: *Differentiable Physics: A physics-constrained and data-driven paradigm for scientific discovery*  
-**Speaker**: Dr. Romit Maulik  
-*Assistant Professor, Pennsylvania State University*  
-📅 *Date: August 13, 2025*  
-📺 [Watch on YouTube](https://youtu.be/A9AGOhPoXYw)
+### 🔹 Talk 1: *The Best of Both Worlds: Hybridizing Neural Operators and Solvers for Stable Long-Horizon Inference*  
+**Speaker**: Rajyasri Roy  
+*PhD Student, Johns Hopkins University, USA*  
+📅 *Date: January 21, 2026*  
+📺 [Watch on YouTube](https://youtu.be/szKOVbcqdak)
 
-### 🔹 Talk 3: *TI-DeepONet: Learnable Time Integration for Stable Long-Term Extrapolation*  
-**Speaker**: Dibyajyoti Nayak   
-*PhD Scholar, Johns Hopkins University*  
-📅 *Date: August 20, 2025*  
-📺 [Watch on YouTube](https://youtu.be/bLLbKAq4RBA)
 ---
 
 
