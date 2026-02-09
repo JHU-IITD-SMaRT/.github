@@ -21,6 +21,13 @@ Make sure to **subscribe** and **turn on notifications** to stay updated on futu
 
 ---
 
+## 🔗 LinkedIn Page
+
+For the latest updates and speaker informations, please follow us on our LinkedIn Page  
+📺 [SMaRT on LinkedIn]([🔗 LinkedIn](https://www.linkedin.com/company/smart-jhu-iitd/))
+
+---
+
 ## 📬 Contact
 
 For questions, speaker nominations, or collaborations, please reach out to:
