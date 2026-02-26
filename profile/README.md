@@ -40,6 +40,18 @@ For questions, speaker nominations, or collaborations, please reach out to:
 
 ## 📚 Past Talks
 
+### 🔹 Talk 4: *DD-FEM: A Physics-Governed Path to Foundation Models for Computational Science*  
+**Speaker**: Youngsoo Choi  
+*Staff Scientist, Lawrence Livermore National Laboratory, USA*  
+📅 *Date: February 11, 2026*  
+📺 [Watch on YouTube](https://youtu.be/mJVgi7tHad4)
+
+### 🔹 Talk 3: *From Transolver to Transolver-3: Scaling Neural Solvers to Industrial-Scale Geometries*  
+**Speaker**: Haixu Wu  
+*Postdoctoral Scholar, CSAIL, Massachusetts Institute of Technology, USA*  
+📅 *Date: February 4, 2026*  
+📺 [Watch on YouTube](https://youtu.be/oef6G3kSQcg)
+
 ### 🔹 Talk 2: *Pretrain Finite Element Method: A Pretraining and Warm-start Framework for PDEs via Physics-Informed Neural Operators*  
 **Speaker**: Yizheng Wang  
 *PhD Student, Tsinghua University, China*  
