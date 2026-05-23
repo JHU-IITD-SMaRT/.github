@@ -40,43 +40,43 @@ For questions, speaker nominations, or collaborations, please reach out to:
 
 ## 📚 Past Talks
 
-### 🔹 Talk 13: Towards Deployable Autonomous Systems with Safe Reinforcement Learning
+### 🔹 Talk 13: *Towards Deployable Autonomous Systems with Safe Reinforcement Learning*
 **Speaker**: Raunak Bhattacharyya
 *Assistant Professor, School of Artificial Intelligence, Indian Institute of Technology Delhi*  
 📅 *Date: May 13, 2026*  
 📺 This session was not recorded
 
-### 🔹 Talk 12: Learning to Control PDEs with Differentiable Predictive Control and Time-Integrated Neural Operators
+### 🔹 Talk 12: *Learning to Control PDEs with Differentiable Predictive Control and Time-Integrated Neural Operators*
 **Speaker**: Dibakar Roy Sarkar
 *Ph.D. Scholar, Civil and Systems Engineering, Johns Hopkins University, USA*  
 📅 *Date: April 22, 2026*  
 📺 [Watch on YouTube]()
 
-### 🔹 Talk 11: Bridging the Semantic Gap between Humans and Robots/Embodied AI Systems 
+### 🔹 Talk 11: *Bridging the Semantic Gap between Humans and Robots/Embodied AI Systems* 
 **Speaker**: Rohan Paul
 *Associate Professor, Computer Science and Engineering, Indian Institute of Technology Delhi*  
 📅 *Date: April 15, 2026*  
 📺 [Watch on YouTube]()
 
-### 🔹 Talk 10: Smart AI, Not Just Accurate AI: Toward Sustainable Scientific Machine Learning
+### 🔹 Talk 10: *Smart AI, Not Just Accurate AI: Toward Sustainable Scientific Machine Learning*
 **Speaker**: Taniya Kapoor 
-*Assistant Professor, Artificial Intelligence Group, Wageningen University & Research, Netherlands *  
+*Assistant Professor, Artificial Intelligence Group, Wageningen University & Research, Netherlands*  
 📅 *Date: April 8, 2026*  
 📺 [Watch on YouTube]()
 
-### 🔹 Talk 9: NCWNO: A Foundation Model for Operator Learning in Scientific Computing  
+### 🔹 Talk 9: *NCWNO: A Foundation Model for Operator Learning in Scientific Computing*  
 **Speaker**:  Tapas Tripura  
 *PhD Scholar, Department of Applied Mechanics, Indian Institute of Technology Delhi*  
 📅 *Date: April 1, 2026*  
 📺 [Watch on YouTube]()
 
-### 🔹 Talk 8: Models to Twins: Physics-Enhanced Modeling for Adaptive Intelligence  
+### 🔹 Talk 8: *Models to Twins: Physics-Enhanced Modeling for Adaptive Intelligence*  
 **Speaker**: Eleni Chatzi  
 *Professor and Chair, Structural Mechanics and Monitoring, ETH Zürich, Switzerland*  
 📅 *Date: March 18, 2026*  
 📺 [Watch on YouTube](https://youtu.be/mJVgi7tHad4)
 
-### 🔹 Talk 7: *Interpretable priors for Bayesian Neural Networks through IFT *  
+### 🔹 Talk 7: *Interpretable priors for Bayesian Neural Networks through IFT*  
 **Speaker**: Alex Alberts  
 *Postdoctoral Researcher, School of Mechanical Engineering, Purdue University, USA*  
 📅 *Date: March 11, 2026*  
