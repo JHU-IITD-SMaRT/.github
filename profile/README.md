@@ -88,9 +88,9 @@ For questions, speaker nominations, or collaborations, please reach out to:
 📅 *Date: February 25, 2026*  
 📺 [Watch on YouTube](https://youtu.be/PyjxZkMA5fA?list=PLQb15lhsTIyK8oV99po34CtRhrCiQ-S_A)
 
-### 🔹 Talk 5: *Neural Network Sparsification: A Bayesian Perspective *  
+### 🔹 Talk 5: *Neural Network Sparsification: A Bayesian Perspective*  
 **Speaker**: Govinda Anantha Padmanabha  
-* Postdoctoral Scholar, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland*  
+*Postdoctoral Scholar, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland*  
 📅 *Date: February 18, 2026*  
 📺 [Watch on YouTube](https://youtu.be/AjvQZTPuRqg?list=PLQb15lhsTIyK8oV99po34CtRhrCiQ-S_A)
 
